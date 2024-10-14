@@ -3,13 +3,12 @@ import argparse
 from glob import glob
 import numpy as np
 import os
+os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 import subprocess
 import yaml
 
 from event_based_downsampling import event_downsample
 from utils import build_frames
-
-os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-f', '--data_folder', type=str, required=True)
