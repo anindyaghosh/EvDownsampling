@@ -56,6 +56,6 @@ EvDownsampling
 
 An example script of how to run EvDownsampling is shown in ```testing.py```. The example script:
   - Downsamples the ```Arundel``` event stream found in the ```corridor``` folder.
-  - Visualises the downsampled event streams.
+  - Visualises the downsampled event stream.
 
 All the downsampling and visualisation parameters can be found and changed in ```EvDownsampling_config.yaml```.
