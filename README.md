@@ -4,10 +4,11 @@
 
 EvDownsampling allows real-time **event-based spatio-temporal downsampling**. It has been tested at various spatial downsampling factors on the DVSGesture dataset with minimal reduction in classification accuracy even at high spatial downsampling factors, while significantly reducing the number of events needed to achieve a high accuracy by a downstream SNN.
 
-We also tested EvDownsampling on its ability to successfully provide lower-resolution events from higher-resolution event streams by comparing downsampled event streams to actual lower-resolution event streams. For this we compared the downsampled event streams from a DVXplorer (640x480 pixels) to the event streams obtained from a Davis346 (346x260 pixels) DVS cameras -- both event streams were of the same scene recordings.
-The event streams of the scene recordings for both the DXplorer and the Davis346 can be found in the [EvDownsampling dataset](https://doi.org/10.25377/sussex.26528146).
+We also tested EvDownsampling on its ability to successfully provide lower-resolution events from higher-resolution event streams by comparing downsampled event streams to actual lower-resolution event streams. For this we compared the downsampled event streams from a DVXplorer (640x480 pixels) to the event streams obtained from a Davis346 (346x260 pixels) DVS cameras — both event streams were of the same scene.
 
-https://github.com/user-attachments/assets/e5a339b3-bc7a-4c54-aef4-394424a52d0b
+The event streams of the scenes for both the DXplorer and the Davis346 can be found in the [EvDownsampling dataset](https://doi.org/10.25377/sussex.26528146).
+
+![Traffic gif](https://github.com/user-attachments/assets/97016855-6f7f-40a8-a3bb-21f5bb92748c)
 
 ### Related Publications
 Ghosh, A., Nowotny, T. and Knight, J.C., 2023, August. **Insect-inspired Spatio-temporal Downsampling of Event-based Input**. In Proceedings of the 2023 International Conference on Neuromorphic Systems (pp. 1-5). [PDF](https://dl.acm.org/doi/pdf/10.1145/3589737.3605994).
