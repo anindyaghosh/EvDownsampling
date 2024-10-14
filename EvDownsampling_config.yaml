@@ -1,0 +1,12 @@
+downsampling:
+    sensor_size: [640,480,2]
+    target_size: [346,260]
+    dt: 1 # ms
+    tau_theta: 420 # ms
+    tau_accumulator: 16 # ms
+    beta: 1.2
+
+visualisation:
+    camera_name: Dvxplorer_downsampled
+    time_resolution: 10 # ms
+    window_size: [1280,720]
