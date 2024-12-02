@@ -68,7 +68,7 @@ def visualisation(camera_name, frames, time_resolution, window_size):
     for f in range(frames.shape[0]):
         
         cv2.namedWindow(camera_name, cv2.WINDOW_NORMAL)
-        cv2.resizeWindow(camera_name, window_size)
+        cv2.resizeWindow(camera_name, window_size, interpolation=cv2.INTER_AREA)
         
         image = frames[f,...]
         image[...,[1, 2]] = image[...,[2, 1]]
