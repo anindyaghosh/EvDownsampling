@@ -11,6 +11,8 @@ The event streams of the scenes for both the DXplorer and the Davis346 can be fo
 ![Traffic gif](https://github.com/user-attachments/assets/97016855-6f7f-40a8-a3bb-21f5bb92748c)
 
 ### Related Publications
+Ghosh, A., Nowotny, T. and Knight, J., 2024. **EvDownsampling: A Robust Method For Downsampling Event Camera Data**. In ECCV Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras. [PDF]([https://www.researchgate.net/profile/Anindya-Ghosh-14/publication/365398835_Event-based_Spatio-temporal_down-sampling/links/63ee13cb2958d64a5cd5b583/Event-based-Spatio-temporal-down-sampling.pdf](https://drive.google.com/file/d/1s40YRb1HdJ7GMWotIpakDeKl9ETv8dd6/view)).
+
 Ghosh, A., Nowotny, T. and Knight, J.C., 2023, August. **Insect-inspired Spatio-temporal Downsampling of Event-based Input**. In Proceedings of the 2023 International Conference on Neuromorphic Systems (pp. 1-5). [PDF](https://dl.acm.org/doi/pdf/10.1145/3589737.3605994).
 
 Ghosh, A., Nowotny, T. and Knight, J., 2022. **Event-based spatio-temporal down-sampling. In UKRAS22 Conference “Robotics for Unconstrained Environments"**. UKRAS22 Conference “Robotics for Unconstrained Environments" Proceedings (Vol. 5, pp. 26-27). [PDF](https://www.researchgate.net/profile/Anindya-Ghosh-14/publication/365398835_Event-based_Spatio-temporal_down-sampling/links/63ee13cb2958d64a5cd5b583/Event-based-Spatio-temporal-down-sampling.pdf).
