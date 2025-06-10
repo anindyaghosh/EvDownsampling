@@ -19,12 +19,13 @@ Ghosh, A., Nowotny, T. and Knight, J., 2022. **Event-based spatio-temporal down-
 
 ## 1. License
 ```
-@article{Ghosh2024,
-author = "Anindya Ghosh and Thomas Nowotny and James Knight",
-title = "{EvDownsampling: a robust method for downsampling event camera data}",
-year = "2024",
-month = "9",
-url = "https://sussex.figshare.com/articles/conference_contribution/EvDownsampling_a_robust_method_for_downsampling_event_camera_data/26970640",
+@inproceedings{ghosh2025evdownsampling,
+  title={EvDownsampling: a robust method for downsampling event camera data},
+  author={Ghosh, Anindya and Nowotny, Thomas and Knight, James},
+  booktitle={European Conference on Computer Vision},
+  pages={377--390},
+  year={2025},
+  organization={Springer}
 }
 ```
 
