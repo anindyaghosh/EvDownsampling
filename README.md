@@ -10,8 +10,11 @@ The event streams of the scenes for both the DXplorer and the Davis346 can be fo
 
 ![Traffic gif](https://github.com/user-attachments/assets/97016855-6f7f-40a8-a3bb-21f5bb92748c)
 
+### Update: 10/11/2025
+Real-time torch-based version of EvDownsampling uploaded. Test implementation of this is given in `test script.py`.
+
 ### Related Publications
-Ghosh, A., Nowotny, T. and Knight, J., 2024. **EvDownsampling: A Robust Method For Downsampling Event Camera Data**. In ECCV Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras. [PDF](https://drive.google.com/file/d/1s40YRb1HdJ7GMWotIpakDeKl9ETv8dd6/view).
+Ghosh, A., Nowotny, T. and Knight, J., 2024. **EvDownsampling: A Robust Method For Downsampling Event Camera Data**. In ECCV Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-92460-6_22).
 
 Ghosh, A., Nowotny, T. and Knight, J.C., 2023, August. **Insect-inspired Spatio-temporal Downsampling of Event-based Input**. In Proceedings of the 2023 International Conference on Neuromorphic Systems (pp. 1-5). [PDF](https://dl.acm.org/doi/pdf/10.1145/3589737.3605994).
 
@@ -19,12 +22,12 @@ Ghosh, A., Nowotny, T. and Knight, J., 2022. **Event-based spatio-temporal down-
 
 ## 1. License
 ```
-@inproceedings{ghosh2025evdownsampling,
+@inproceedings{ghosh2024evdownsampling,
   title={EvDownsampling: a robust method for downsampling event camera data},
   author={Ghosh, Anindya and Nowotny, Thomas and Knight, James},
   booktitle={European Conference on Computer Vision},
   pages={377--390},
-  year={2025},
+  year={2024},
   organization={Springer}
 }
 ```
