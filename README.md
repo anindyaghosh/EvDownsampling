@@ -11,7 +11,7 @@ The event streams of the scenes for both the DXplorer and the Davis346 can be fo
 ![Traffic gif](https://github.com/user-attachments/assets/97016855-6f7f-40a8-a3bb-21f5bb92748c)
 
 ### Update: 10/11/2025
-Real-time torch-based version of EvDownsampling uploaded. Test implementation of this is given in `test script.py`.
+Real-time torch-based version of EvDownsampling (`event_downsampling_torch.py`) uploaded. Test implementation of this is given in `test_script.py`.
 
 ### Related Publications
 Ghosh, A., Nowotny, T. and Knight, J., 2024. **EvDownsampling: A Robust Method For Downsampling Event Camera Data**. In ECCV Workshop on Neuromorphic Vision: Advantages and Applications of Event Cameras. [PDF](https://link.springer.com/chapter/10.1007/978-3-031-92460-6_22).
