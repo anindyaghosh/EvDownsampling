@@ -10,6 +10,9 @@ The event streams of the scenes for both the DXplorer and the Davis346 can be fo
 
 ![Traffic gif](https://github.com/user-attachments/assets/97016855-6f7f-40a8-a3bb-21f5bb92748c)
 
+### Update: 10/03/2026
+Real-time [GeNN](https://genn-team.github.io/)-based version of EvDownsampling (`event_downsampling_genn.py`) uploaded. Test implementation of this is given in `test_script_genn.py`.
+
 ### Update: 10/11/2025
 Real-time torch-based version of EvDownsampling (`event_downsampling_torch.py`) uploaded. Test implementation of this is given in `test_script.py`.
 
