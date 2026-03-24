@@ -37,7 +37,7 @@ Ghosh, A., Nowotny, T. and Knight, J., 2022. **Event-based spatio-temporal down-
 
 ## 2. Prerequisite
 
-To ensure rapid building of 2D histograms, we use Tonic's [ToFrame](https://tonic.readthedocs.io/en/latest/auto_examples/representations/plot_toframe.html#sphx-glr-auto-examples-representations-plot-toframe-py) class. As such, Tonic needs to be installed. It can be installed using:
+To ensure rapid building of 2D histograms, we use Tonic's [ToFrame](https://tonic.readthedocs.io/en/latest/auto_examples/representations/plot_toframe.html#sphx-glr-auto-examples-representations-plot-toframe-py) method. As such, Tonic needs to be installed. It can be installed using:
 ```
 pip install tonic
 ```
